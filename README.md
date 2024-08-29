@@ -1,2 +1,2 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+This repo include my Work with the J P Morgan Chase & co's open source Perspective framework with the help of Forage 
